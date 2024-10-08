@@ -1,8 +1,8 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Jose F. Negrete Oseguera]
+## [Assignment # lab 05]
+## [Submission date: 10/08/2024]
 ## Worked with/sources 
-* example
+* Ta's
 * example
 * example
 * example
